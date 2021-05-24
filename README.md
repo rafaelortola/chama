@@ -1,5 +1,7 @@
 # chama
 
+Java Version -> 1.8.0_191
+
 1- Dar um git clone em seu terminal, dentro de uma pasta de sua preferência para o projeto <br>
 2- Para rodar os testes, executar a classe TestRunner <br>
 3- As features que estamos testando estão na pasta /Features <br>
